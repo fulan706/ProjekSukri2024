@@ -1,3 +1,3 @@
 <? php 
-echo "Assalamu'alaikum Ya Akhi Ya Ukhti";
+echo "Belajar Edit Code di Github";
 ?>
